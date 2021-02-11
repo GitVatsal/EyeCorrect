@@ -19,4 +19,4 @@ Vatsal Srivastava
 
 <h2> Work </h2>
 
-<img src="https://github.com/GitVatsal/EyeCorrect/blob/main/ss/Screenshot_20201026-122033_ET10.jpg" width="256" height="640" >
+<img src="https://github.com/GitVatsal/EyeCorrect/blob/main/ss/Screenshot_20201026-122033_ET10.jpg" width="220" height="480" > <img src="https://github.com/GitVatsal/EyeCorrect/blob/main/ss/Screenshot_20201026-122042_ET10.jpg" width="220" height="480" > <img src="https://github.com/GitVatsal/EyeCorrect/blob/main/ss/SCREENSHOT.png" width="220" height="480" > <img src="https://github.com/GitVatsal/EyeCorrect/blob/main/ss/Screenshot_20201026-121550_ET10.jpg" width="220" height="480" >
