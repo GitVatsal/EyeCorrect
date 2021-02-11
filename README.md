@@ -1,4 +1,5 @@
-Project Preface
+<h2> Project Preface </h2>
+
 Eye testing app is a result of the thought of converting (or mapping) camera obtained annotations to real world distances, without using core mathematics and camera sensor matrix analysis, but using simple regression techniques, machine learning, and object detection models.
 
 This app has three core parts which can be briefly described as follows:
