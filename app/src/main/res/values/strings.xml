@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ET1.0</string>
+    <string name="app_name_full"> EyeTest </string>
+    <string name="title_activity_slide_show">SlideShow</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="goToHome"> Home </string>
+    <string name="title_ins"> Instructions </string>
+    <string name="start"> START </string>
+    <string name="instructions_m"> Move some steps back from the phone. Now you could not read the all letters properly. Now start coming closer to phone just when you start to see all letters clear, stay just there, with somebody\'s help, press \"click when readable\" button. Make sure blue box still appears when you click. </string>
+    <string name="instructions_h"> Hold the phone near, or keep it somewhere, perpendicular to floor (for accuracy) at the height of your face, you facing the screen. Now very near you would be uncomfortable to see the letters clearly, so very slowly move (yourself/your face) backwards (farther from the phone) and just when you start seeing all letters clearly, stop and touch the \"click when readable\" button. </string>
+    <string name="previous">Previous</string>
+    <string name="more">SHOW MORE DIAGNOSIS</string>
+    <string name="exit"> EXIT </string>
+    <string name="proceed">Click when readable</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Face Recognition</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>
