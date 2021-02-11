@@ -9,7 +9,7 @@ This app has three core parts which can be briefly described as follows:
 
 3) Ophthalmology: Now having those distances, we can use it for obtaining exact power of eye correction lens required for an individual, using the concept of optics for far and short sighted people and combining it with indispensable expert opinion of third party eye-specialists and ophthalmologists.
 
-These can be hopefully integrated to one simple app which anyone can use conveniently and effectively.
+These can be integrated to one simple app which anyone can use conveniently and effectively.
 
 Thank you.
 
