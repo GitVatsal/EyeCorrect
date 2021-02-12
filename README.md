@@ -14,7 +14,8 @@ These can be integrated to one simple app which anyone can use conveniently and 
 
 Thank you.
 
-Author 
+Author
+
 Vatsal Srivastava
 
 <h2> Work </h2>
