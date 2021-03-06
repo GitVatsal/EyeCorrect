@@ -1,3 +1,4 @@
+<h3> ©  Vatsal Srivastava  </h3>
 <h2> Project Preface </h2>
 
 Eye testing app is a result of the thought of converting (or mapping) camera obtained annotations to real world distances, without using core mathematics and camera sensor matrix analysis, but using simple regression techniques, machine learning, and object detection models.
@@ -10,13 +11,7 @@ This app has three core parts which can be briefly described as follows:
 
 3) Ophthalmology: Now having those distances, we can use it for obtaining exact power of eye correction lens required for an individual, using the concept of optics for far and short sighted people and combining it with indispensable expert opinion of third party eye-specialists and ophthalmologists.
 
-These can be integrated to one simple app which anyone can use conveniently and effectively.
-
-Thank you.
-
-Author
-
-Vatsal Srivastava
+These can be integrated to one app.
 
 <h2> Work </h2>
 
